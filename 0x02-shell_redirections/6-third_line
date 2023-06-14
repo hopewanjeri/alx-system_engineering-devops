@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo head -3 ./iacta | tail -3`
+sudo head -3 ./iacta | tail -3
